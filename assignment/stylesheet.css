@@ -1,0 +1,22 @@
+/* stylesheet.css */
+header {
+    background-color: lightgrey;
+    color: black;
+    text-align: left;
+}
+
+h2 {
+    background-color: cyan;
+    color: black;
+    text-align: center;
+}
+
+h3 {
+    background-color: cyan;
+    color: black;
+    text-align: center;
+}
+
+.image-container {
+    text-align: center;
+}
